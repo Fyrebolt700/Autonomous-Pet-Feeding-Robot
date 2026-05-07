@@ -2,9 +2,13 @@
 
 A VEX-based autonomous robot that detects pet bowls, identifies bowl colour, dispenses different food portions, skips obstacles, and returns to its starting position.
 
-![Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="650" alt="Demo of the pet food dispensing robot">
+</p>
 
-![Final robot assembly](full-robot.jpg)
+<p align="center">
+  <img src="final-robot.jpg" width="500" alt="Final robot assembly">
+</p>
 
 ## What it does
 
@@ -27,7 +31,9 @@ The robot uses:
 - Motor encoders to return home
 - A 3D-printed food holder, chute, and trapdoor mechanism
 
-![3D printed dispensing mechanism](printed.jpg)
+<p align="center">
+  <img src="printed-mechanism.jpg" width="500" alt="3D printed dispensing mechanism">
+</p>
 
 ## Software
 
