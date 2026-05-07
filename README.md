@@ -46,10 +46,6 @@ The C++ code is split into functions for each part of the routine:
 | `afterDetection()` | Moves past the detected bowl/object |
 | `moveHome()` | Returns the robot to its starting position |
 
-## My Contributions
-
-I mainly worked on the robot’s software, including the main routine, return-home logic, and post-detection movement. I also helped integrate the sensors and motors into the final autonomous sequence.
-
 ## Challenges
 
 Some of the main issues were:
