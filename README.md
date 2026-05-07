@@ -7,7 +7,7 @@ A VEX-based autonomous robot that detects pet bowls, identifies bowl colour, dis
 </p>
 
 <p align="center">
-  <img src="final-robot.jpg" width="500" alt="Final robot assembly">
+  <img src="full-robot.jpg" width="500" alt="Final robot assembly">
 </p>
 
 ## What it does
