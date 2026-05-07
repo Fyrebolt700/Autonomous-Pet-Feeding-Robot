@@ -3,7 +3,7 @@
 A VEX-based autonomous robot that detects pet bowls, identifies bowl colour, dispenses different food portions, skips obstacles, and returns to its starting position.
 
 <p align="center">
-  <img src="demo.gif" width="650" alt="Demo of the pet food dispensing robot">
+  <img src="robot-demo.gif" width="650" alt="Demo of the pet food dispensing robot">
 </p>
 
 <p align="center">
