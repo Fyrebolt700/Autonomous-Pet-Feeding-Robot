@@ -4,7 +4,7 @@ A VEX-based autonomous robot that detects pet bowls, identifies bowl colour, dis
 
 ![Demo](robot-demo.gif)
 
-<p align="center">
+<p align="left">
   <img src="full-robot.jpg" width="350" alt="Final robot assembly">
 </p>
 
@@ -29,7 +29,7 @@ The robot uses:
 - Motor encoders to return home
 - A 3D-printed food holder, chute, and trapdoor mechanism
 
-<p align="center">
+<p align="left">
   <img src="printed.jpg" width="350" alt="3D printed dispensing mechanism">
 </p>
 
